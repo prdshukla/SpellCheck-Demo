@@ -1,0 +1,15 @@
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\bin\Debug\SpellCheck.exe
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\bin\Debug\SpellCheck.pdb
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\bin\Debug\SpellCheck.xml
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.Form1.resources
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.Resources.resources
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.exe.licenses
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.exe
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.xml
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.pdb
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.CustomTextEdit.resources
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.Form2.resources
+C:\1 OfficeWork\Dev Bench\2012\SpellCheck\SpellCheck\obj\x86\Debug\SpellCheck.MyTextEdit.resources
